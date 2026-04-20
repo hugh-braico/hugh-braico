@@ -1,4 +1,5 @@
-- 👋 Senior SRE working at Quantium, based in Sydney, Australia.
+- 👋 Senior SRE working at Quantium, based in Sydney, Australia. Double Bachelor's of Electrical Engineering and Computer Science at UNSW.
 - 🥰 I'm passionate about platform tooling, developer experience and operational readiness. Hank Hill likes a freshly mown lawn, I like a green pipeline!
+- 🐍 Python is my favourite language at the moment, love a good list comprehension. I'm dabbling with Rust at the moment, which is interesting.
 - 🤔 This is my personal account, so you won't see any of my Quantium work here. I mostly use this account for smaller utilities, experiments, bots, that kind of thing.
 - 💀 I really like the video game Skullgirls 2nd Encore, so a lot of the things you'll see here are utilities to help administrate tournaments, replays, and VODs for the game.
